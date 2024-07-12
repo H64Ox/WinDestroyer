@@ -5,7 +5,7 @@
 
 ## What's WinDestroyer?
 
-WinDestroyer is a straightforward program to remove the `System32` folder from Windows. In this way, the operating system will be destroyed. I am not responsible for any misuse of WinDestroyer, this is a project for educational purposes only and without any unethical intention.
+WinDestroyer is a straightforward program to remove the `System32` folder from Windows. In this way, the operating system will be destroyed. For this very reason, all antivirus software will warn you not to download it, as it will destroy your system. I am not responsible for any misuse of WinDestroyer, this is a project for educational purposes only and without any unethical intention.
 ## How does it work?
 
 WinDestroyer is created in Python, but has been compiled into an .exe file for simplicity. Here's the code with evereything commented.
